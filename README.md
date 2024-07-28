@@ -23,7 +23,7 @@ Source code for the article  [Build a Django full stack Photo-Sharing app]().
 Clone the repository:
 
 ```bash
-git clone https://github.com/DaniDiazTech/Django-photo-app.git
+git clone https://github.com/ChrisChan1117/Django-photo-app.git
 
 cd Django-photo-app/
 ```
